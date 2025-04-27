@@ -8,19 +8,26 @@
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
         <lastBuildDate>Sun, 27 Apr 2025 13:45:17 +0800</lastBuildDate><atom:link href="https://1heyulong.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Testtest</title>
-        <link>https://1heyulong.github.io/p/testtest/</link>
+        <title>日常随手记</title>
+        <link>https://1heyulong.github.io/p/%E6%97%A5%E5%B8%B8%E9%9A%8F%E6%89%8B%E8%AE%B0/</link>
         <pubDate>Sun, 27 Apr 2025 13:45:17 +0800</pubDate>
         
-        <guid>https://1heyulong.github.io/p/testtest/</guid>
-        <description>&lt;p&gt;##正文测试出
-时间：25年4月20——4月27的任务更新
-已经完成部分：
-（1）
-（2）
-还需完善部分：
-（1）
-（2）&lt;/p&gt;
+        <guid>https://1heyulong.github.io/p/%E6%97%A5%E5%B8%B8%E9%9A%8F%E6%89%8B%E8%AE%B0/</guid>
+        <description>&lt;img src="https://1heyulong.github.io/p/%E6%97%A5%E5%B8%B8%E9%9A%8F%E6%89%8B%E8%AE%B0/easter-7101862_640.jpg" alt="Featured image of post 日常随手记" /&gt;&lt;h1 id=&#34;任务更新2025年4月20日---4月27日&#34;&gt;任务更新：2025年4月20日 - 4月27日
+&lt;/h1&gt;&lt;h2 id=&#34;已完成部分&#34;&gt;已完成部分
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;任务 1&lt;/strong&gt;: 描述已完成的任务内容。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;任务 2&lt;/strong&gt;: 描述另一项已完成的任务内容。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;还需完善部分&#34;&gt;还需完善部分
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;任务 1&lt;/strong&gt;: 描述需要进一步完善的内容。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;任务 2&lt;/strong&gt;: 描述另一项需要完善的内容。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;备注&#34;&gt;备注
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;如果有其他需要注意的事项，可以在这里补充。&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
