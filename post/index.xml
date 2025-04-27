@@ -7,23 +7,67 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Sun, 27 Apr 2025 13:45:17 +0800</lastBuildDate><atom:link href="https://1heyulong.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>日常随手记</title>
-        <link>https://1heyulong.github.io/p/%E6%97%A5%E5%B8%B8%E9%9A%8F%E6%89%8B%E8%AE%B0/</link>
-        <pubDate>Sun, 27 Apr 2025 13:45:17 +0800</pubDate>
+        <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://1heyulong.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Task Progress</title>
+        <link>https://1heyulong.github.io/p/task-progress/</link>
+        <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://1heyulong.github.io/p/%E6%97%A5%E5%B8%B8%E9%9A%8F%E6%89%8B%E8%AE%B0/</guid>
-        <description>&lt;img src="https://1heyulong.github.io/p/%E6%97%A5%E5%B8%B8%E9%9A%8F%E6%89%8B%E8%AE%B0/easter-7101862_640.jpg" alt="Featured image of post 日常随手记" /&gt;&lt;h1 id=&#34;任务更新2025年4月20日---4月27日&#34;&gt;任务更新：2025年4月20日 - 4月27日
+        <guid>https://1heyulong.github.io/p/task-progress/</guid>
+        <description>&lt;img src="https://1heyulong.github.io/p/task-progress/easter-7101862_640.jpg" alt="Featured image of post Task Progress" /&gt;&lt;h1 id=&#34;任务更新2025年4月20日---4月27日&#34;&gt;任务更新：2025年4月20日 - 4月27日
 &lt;/h1&gt;&lt;h2 id=&#34;已完成部分&#34;&gt;已完成部分
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;任务 1&lt;/strong&gt;: 描述已完成的任务内容。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;任务 2&lt;/strong&gt;: 描述另一项已完成的任务内容。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;task 1&lt;/strong&gt;: 已经跑通mantis和TSLANet的模型代码，并且可以进行拆解改进&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;task 2&lt;/strong&gt;: 初步完成了中期检查的答辩ppt，后续需要继续完善&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;task 3&lt;/strong&gt;: 学会了搭建个人博客，并且学会更新&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;还需完善部分&#34;&gt;还需完善部分
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;任务 1&lt;/strong&gt;: 描述需要进一步完善的内容。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;任务 2&lt;/strong&gt;: 描述另一项需要完善的内容。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;last_task 1&lt;/strong&gt;: 尝试将TSLNet的代码手撕一遍&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;last_task 2&lt;/strong&gt;: 继续将mantis和TSLNet的代码进行结合&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;风景展示&#34;&gt;风景展示
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://1heyulong.github.io/p/task-progress/daisies-9547672_640.jpg&#34;
+	width=&#34;640&#34;
+	height=&#34;427&#34;
+	srcset=&#34;https://1heyulong.github.io/p/task-progress/daisies-9547672_640_hu_1576d27150543071.jpg 480w, https://1heyulong.github.io/p/task-progress/daisies-9547672_640_hu_3fdb6c0f4129cc41.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;小雏菊&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;149&#34;
+		data-flex-basis=&#34;359px&#34;
+	
+&gt;
+&lt;img src=&#34;https://1heyulong.github.io/p/task-progress/picture.jpg&#34;
+	width=&#34;253&#34;
+	height=&#34;199&#34;
+	srcset=&#34;https://1heyulong.github.io/p/task-progress/picture_hu_d87ea8834c14d767.jpg 480w, https://1heyulong.github.io/p/task-progress/picture_hu_8b1a571d0e8bbecf.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;师傅和悟空&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;127&#34;
+		data-flex-basis=&#34;305px&#34;
+	
+&gt;
+&lt;img src=&#34;https://1heyulong.github.io/p/task-progress/picture_1.jpg&#34;
+	width=&#34;212&#34;
+	height=&#34;238&#34;
+	srcset=&#34;https://1heyulong.github.io/p/task-progress/picture_1_hu_92a92e537013d053.jpg 480w, https://1heyulong.github.io/p/task-progress/picture_1_hu_5b15bf7c2dd36562.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;悟空&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;89&#34;
+		data-flex-basis=&#34;213px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;h2 id=&#34;备注&#34;&gt;备注
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;如果有其他需要注意的事项，可以在这里补充。&lt;/li&gt;
