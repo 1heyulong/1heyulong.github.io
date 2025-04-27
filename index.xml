@@ -7,13 +7,21 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Sun, 27 Apr 2025 11:39:08 +0800</lastBuildDate><atom:link href="https://1heyulong.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>New</title>
-        <link>https://1heyulong.github.io/p/new/</link>
-        <pubDate>Sun, 27 Apr 2025 11:39:08 +0800</pubDate>
+        <lastBuildDate>Sun, 27 Apr 2025 13:45:17 +0800</lastBuildDate><atom:link href="https://1heyulong.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Testtest</title>
+        <link>https://1heyulong.github.io/p/testtest/</link>
+        <pubDate>Sun, 27 Apr 2025 13:45:17 +0800</pubDate>
         
-        <guid>https://1heyulong.github.io/p/new/</guid>
-        <description></description>
+        <guid>https://1heyulong.github.io/p/testtest/</guid>
+        <description>&lt;p&gt;##正文测试出
+时间：25年4月20——4月27的任务更新
+已经完成部分：
+（1）
+（2）
+还需完善部分：
+（1）
+（2）&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>MyFirstBlog</title>
