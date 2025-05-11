@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://1heyulong.github.io/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://1heyulong.github.io/post/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -32,6 +32,9 @@
                 hreflang="zh-cn"
                 href="https://1heyulong.github.io/post/"
                 />
+  </url><url>
+    <loc>https://1heyulong.github.io/p/%E6%AF%8F%E5%A4%A9%E8%BF%9B%E6%AD%A5%E4%B8%80%E7%82%B9%E7%82%B9/</loc>
+    <lastmod>2025-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://1heyulong.github.io/p/task-progress/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>

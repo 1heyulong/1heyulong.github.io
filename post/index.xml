@@ -7,7 +7,38 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://1heyulong.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://1heyulong.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>每天进步一点点</title>
+        <link>https://1heyulong.github.io/p/%E6%AF%8F%E5%A4%A9%E8%BF%9B%E6%AD%A5%E4%B8%80%E7%82%B9%E7%82%B9/</link>
+        <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://1heyulong.github.io/p/%E6%AF%8F%E5%A4%A9%E8%BF%9B%E6%AD%A5%E4%B8%80%E7%82%B9%E7%82%B9/</guid>
+        <description>&lt;img src="https://1heyulong.github.io/p/%E6%AF%8F%E5%A4%A9%E8%BF%9B%E6%AD%A5%E4%B8%80%E7%82%B9%E7%82%B9/roof-9004113_640.jpg" alt="Featured image of post 每天进步一点点" /&gt;&lt;h1 id=&#34;任务更新25年5月11日&#34;&gt;任务更新：25年5月11日
+&lt;/h1&gt;&lt;h2 id=&#34;已完成部分&#34;&gt;已完成部分
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;task 1&lt;/strong&gt;: 已经可以自主拆解TSLANet模型和mantis模型，并且可以自由组合&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;task 2&lt;/strong&gt;: 适当学习了离散傅里叶和小波变换的内容，正在尝试将内容加入到模型中，目前效果并不好&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;task 3&lt;/strong&gt;: 一直再尝试将TSLA的模型组件拆解下来往mantis进行组装，发现效果并不好&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;task 4&lt;/strong&gt;: 学会了使用tensorbord工具监控代码的运行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;美图展示&#34;&gt;美图展示
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://1heyulong.github.io/p/%E6%AF%8F%E5%A4%A9%E8%BF%9B%E6%AD%A5%E4%B8%80%E7%82%B9%E7%82%B9/dog-9578735_640.jpg&#34;
+	width=&#34;427&#34;
+	height=&#34;640&#34;
+	srcset=&#34;https://1heyulong.github.io/p/%E6%AF%8F%E5%A4%A9%E8%BF%9B%E6%AD%A5%E4%B8%80%E7%82%B9%E7%82%B9/dog-9578735_640_hu_68dda32040160eb6.jpg 480w, https://1heyulong.github.io/p/%E6%AF%8F%E5%A4%A9%E8%BF%9B%E6%AD%A5%E4%B8%80%E7%82%B9%E7%82%B9/dog-9578735_640_hu_d1a99acac1c56f3c.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;一只小狗&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;66&#34;
+		data-flex-basis=&#34;160px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Task Progress</title>
         <link>https://1heyulong.github.io/p/task-progress/</link>
         <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
