@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>随手记录</copyright>
-        <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://1heyulong.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://1heyulong.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>记录自己的学习思路可以更好的认识自己</title>
         <link>https://1heyulong.github.io/p/%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%80%9D%E8%B7%AF%E5%8F%AF%E4%BB%A5%E6%9B%B4%E5%A5%BD%E7%9A%84%E8%AE%A4%E8%AF%86%E8%87%AA%E5%B7%B1/</link>
         <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
@@ -49,6 +49,34 @@
 &lt;li&gt;&lt;strong&gt;task 1&lt;/strong&gt;: 尝试捋顺TimeMixer&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;task 2&lt;/strong&gt;: 完成时间序列预测大赛&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://1heyulong.github.io/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://1heyulong.github.io/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
+&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
+&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
+&lt;p&gt;Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
+&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -143,6 +171,7 @@
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;没有绝对的理论，只是你需要去不断的找寻理论去为自己当下的处境脱困，但是请记住，要勇敢正直，不要忘记本我&lt;/li&gt;
 &lt;li&gt;人的情绪是解决不了问题的，面对矛盾时，可以有情绪，但是在情绪过后，应该思考当下如何摆脱困境，直面情绪并且去战胜它，感觉这有可能就是人们所常说的理性战胜感性吧。（事情来源：今天在看广告时，发现有个小兵走的特别慢，但是他依旧动作慢吞吞【游戏设定】，但是最终也是逃脱了困境，我于是思考如果是我在操作这个小兵，一定会心急感觉他的行动很慢，但是他最终还是可以逃脱困境，而且他已经在尽自己最大努力行动，但是我主观上依旧感觉其很慢。这是由于我的主观情绪代替了实际情况，导致的情感判断错误，所以不要让情绪去控制你）&lt;/li&gt;
+&lt;li&gt;承认自己的有限，自己的精力力气注意力是有限的，我们所能做的是在有限里发挥尽可能大的价值，不要为难自己，也不要放弃自己&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;引用&#34;&gt;引用
 &lt;/h2&gt;&lt;blockquote&gt;
@@ -153,14 +182,6 @@
 &lt;p&gt;&lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1tW411j7TJ/?spm_id_from=333.337.search-card.all.click&amp;amp;vd_source=d28f8779b255663d8b50f82ede697583&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;最暖的憂傷 - 田馥甄&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 </description>
-        </item>
-        <item>
-        <title>归档</title>
-        <link>https://1heyulong.github.io/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://1heyulong.github.io/archives/</guid>
-        <description></description>
         </item>
         <item>
         <title>Markdown Syntax Guide</title>
@@ -497,13 +518,12 @@ $$</description>
 &lt;/div&gt;</description>
         </item>
         <item>
-        <title>关于</title>
-        <link>https://1heyulong.github.io/%E5%85%B3%E4%BA%8E/</link>
+        <title>归档</title>
+        <link>https://1heyulong.github.io/archives/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://1heyulong.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
-</description>
+        <guid>https://1heyulong.github.io/archives/</guid>
+        <description></description>
         </item>
         <item>
         <title>搜索</title>
