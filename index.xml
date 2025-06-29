@@ -7,7 +7,33 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>随手记录</copyright>
-        <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://1heyulong.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://1heyulong.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>坚持下去</title>
+        <link>https://1heyulong.github.io/p/%E5%9D%9A%E6%8C%81%E4%B8%8B%E5%8E%BB/</link>
+        <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://1heyulong.github.io/p/%E5%9D%9A%E6%8C%81%E4%B8%8B%E5%8E%BB/</guid>
+        <description>&lt;img src="https://1heyulong.github.io/wechat.jpg" alt="Featured image of post 坚持下去" /&gt;&lt;h1 id=&#34;任务更新25年6月29日&#34;&gt;任务更新：25年6月29日
+&lt;/h1&gt;&lt;h2 id=&#34;本周的工作以及值得记录的地方&#34;&gt;本周的工作以及值得记录的地方
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;task 1&lt;/strong&gt;: 在尝试模型多次以后，发现验证集的效果一直不是很好，也尝试在模型架构上做手段，依旧不好。目前已经做的补救手法：
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1）&lt;/strong&gt;: 改模型架构（效果不好）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2）&lt;/strong&gt;: 修改数据集（作弊的情况下，对整体数据做类不平衡处理，会导致效果很好，但是这是作弊的，目前已经准备好更优的数据集（0629正在提取数据特征，明天尝试进行实验））。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;3）&lt;/strong&gt;: 老师一直说是我的复杂度太高，需要精简模型，但是我一直不知道如何下手，明天尝试一下问问ai。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;task 2&lt;/strong&gt;: 尝试远程操纵主机，发现win自带的远程桌面比向日葵流畅度高，但是需要在同一网络下操作，后面可以尝试如何在离线状态下操作（这个可能需要局域网之类的）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;task 3&lt;/strong&gt;: 最近在开始刷力扣题目，多去企业网站看看相关的招聘要求并且多多学习和掌握，还有最好最近查看一下一些工作要求，选好方向大类。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;一些经验之谈&#34;&gt;一些经验之谈
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;第一&lt;/strong&gt;: 人的本性本身也是人的一个枷锁，如何管理好自己的天性，去做好当下最好的决定，这是一门学问。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;第二&lt;/strong&gt;: 我常常会感到疲惫，同时看到其他人的努力又会感到着急，但是本身不去行动，这样会把自己困在角落导致自己越想越多，越先越深，要想改变这种处境，不妨行动起来，运动起来，去输出，去社交，要知道开始是一件事情最重要的地方，加油，要保持每天进步。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>记录自己的学习思路可以更好的认识自己</title>
         <link>https://1heyulong.github.io/p/%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%80%9D%E8%B7%AF%E5%8F%AF%E4%BB%A5%E6%9B%B4%E5%A5%BD%E7%9A%84%E8%AE%A4%E8%AF%86%E8%87%AA%E5%B7%B1/</link>
         <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
@@ -26,7 +52,7 @@
         <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
         
         <guid>https://1heyulong.github.io/p/%E5%A4%9A%E5%81%9A%E5%A4%9A%E6%83%B3%E8%BE%B9%E5%81%9A%E8%BE%B9%E6%83%B3/</guid>
-        <description>&lt;img src="https://1heyulong.github.io/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post 多做多想，边做边想" /&gt;&lt;h1 id=&#34;任务更新25年5月25日&#34;&gt;任务更新：25年5月25日
+        <description>&lt;img src="https://1heyulong.github.io/wukong_2.jpg" alt="Featured image of post 多做多想，边做边想" /&gt;&lt;h1 id=&#34;任务更新25年5月25日&#34;&gt;任务更新：25年5月25日
 &lt;/h1&gt;&lt;h2 id=&#34;本周的工作以及值得记录的地方&#34;&gt;本周的工作以及值得记录的地方
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;task 1&lt;/strong&gt;: 目前已经完成了模型的结果编写部分。&lt;/li&gt;
