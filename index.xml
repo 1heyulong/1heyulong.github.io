@@ -8,12 +8,12 @@
         <language>zh-cn</language>
         <copyright>随手记录</copyright>
         <lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://1heyulong.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>坚持下去</title>
-        <link>https://1heyulong.github.io/p/%E5%9D%9A%E6%8C%81%E4%B8%8B%E5%8E%BB/</link>
+        <title>Perseverance</title>
+        <link>https://1heyulong.github.io/p/perseverance/</link>
         <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://1heyulong.github.io/p/%E5%9D%9A%E6%8C%81%E4%B8%8B%E5%8E%BB/</guid>
-        <description>&lt;img src="https://1heyulong.github.io/wechat.jpg" alt="Featured image of post 坚持下去" /&gt;&lt;h1 id=&#34;任务更新25年6月29日&#34;&gt;任务更新：25年6月29日
+        <guid>https://1heyulong.github.io/p/perseverance/</guid>
+        <description>&lt;img src="https://1heyulong.github.io/wechat.jpg" alt="Featured image of post Perseverance" /&gt;&lt;h1 id=&#34;任务更新25年6月29日&#34;&gt;任务更新：25年6月29日
 &lt;/h1&gt;&lt;h2 id=&#34;本周的工作以及值得记录的地方&#34;&gt;本周的工作以及值得记录的地方
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;task 1&lt;/strong&gt;: 在尝试模型多次以后，发现验证集的效果一直不是很好，也尝试在模型架构上做手段，依旧不好。目前已经做的补救手法：
