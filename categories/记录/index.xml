@@ -7,14 +7,14 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>随手记录</copyright>
-        <lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://1heyulong.github.io/categories/%E8%AE%B0%E5%BD%95/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://1heyulong.github.io/categories/%E8%AE%B0%E5%BD%95/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Perseverance</title>
         <link>https://1heyulong.github.io/p/perseverance/</link>
-        <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
         
         <guid>https://1heyulong.github.io/p/perseverance/</guid>
-        <description>&lt;img src="https://1heyulong.github.io/wechat.jpg" alt="Featured image of post Perseverance" /&gt;&lt;h1 id=&#34;任务更新25年6月29日&#34;&gt;任务更新：25年6月29日
-&lt;/h1&gt;&lt;h2 id=&#34;本周的工作以及值得记录的地方&#34;&gt;本周的工作以及值得记录的地方
+        <description>&lt;img src="https://1heyulong.github.io/wechat.jpg" alt="Featured image of post Perseverance" /&gt;&lt;h1 id=&#34;任务更新25年6月和7月的任务记录&#34;&gt;任务更新：25年6月和7月的任务记录
+&lt;/h1&gt;&lt;h2 id=&#34;6月的工作以及值得记录的地方&#34;&gt;6月的工作以及值得记录的地方
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;task 1&lt;/strong&gt;: 在尝试模型多次以后，发现验证集的效果一直不是很好，也尝试在模型架构上做手段，依旧不好。目前已经做的补救手法：
 &lt;ul&gt;
@@ -25,6 +25,17 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;task 2&lt;/strong&gt;: 尝试远程操纵主机，发现win自带的远程桌面比向日葵流畅度高，但是需要在同一网络下操作，后面可以尝试如何在离线状态下操作（这个可能需要局域网之类的）&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;task 3&lt;/strong&gt;: 最近在开始刷力扣题目，多去企业网站看看相关的招聘要求并且多多学习和掌握，还有最好最近查看一下一些工作要求，选好方向大类。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;7月13的工作以及值得记录的地方&#34;&gt;7月13的工作以及值得记录的地方
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;task 1&lt;/strong&gt;: 最近一直在学习模型调参的方法，模型调参的目的是为了解决模型出现的一些问题。
+例如：
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1）&lt;/strong&gt;: 当模型的训练集效果不错，但是测试集出现不收敛等问题，可通过调参解决。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2）&lt;/strong&gt;: 如何来调整合适的参数来释放模型的最优功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;task 2&lt;/strong&gt;: 尝试学习自动化调参的网络搜索工具，但是现在效果还不是很好。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;一些经验之谈&#34;&gt;一些经验之谈
 &lt;/h2&gt;&lt;ul&gt;
